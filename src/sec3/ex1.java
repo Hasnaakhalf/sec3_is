@@ -6,5 +6,5 @@ public class ex1 {
 	aa();
 	}
 public static void aa()
-{	System.out.println("asd");}
+{	System.out.println("hasnaa");}
 }
